@@ -11,8 +11,7 @@ public class Test123 {
 
 	@Test
 	public void open() throws InterruptedException {for(int i=0;i<5;i++) {
-	System.out.println("Count"+i);	
-	
+	System.out.println("Count is "+(i+1));	
 	}
 	}
 }
