@@ -1,9 +1,0 @@
-testing
-
-Hi Team,
-
-We have verified that FMIP services is not working on all lower environments for telus and koodo applicaton.
-This is impecting our smoke report. Please look into this asap.
-
-Tnanks
-Chandan 
