@@ -15,7 +15,7 @@ public class Test123 {
 		driver = new ChromeDriver();
 driver.get("https:www.google.com");		
 		for (int i = 0; i < 5; i++) {
-			System.out.println("Count is " + (i + 1));
+			System.out.println("Count is  " + (i + 1));
 		}
 	}
 }
