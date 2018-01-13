@@ -13,7 +13,7 @@ public class Test123 {
 	public void open() throws InterruptedException {
 		System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir")+"//Driver//chromedriver.exe");
 		driver = new ChromeDriver();
-driver.get("https:www.google.com");		
+driver.get("https:www.google.com123");		
 		for (int i = 0; i < 5; i++) {
 			System.out.println("Count is  " + (i + 1));
 
